@@ -1,3 +1,3 @@
 ## This is my test site 
 
-![Test site](https://apstudio.github.io/psd/images/test.jpg)
+![Test site](https://apstudio.github.io/psd/img/test.jpg)
